@@ -1,0 +1,4 @@
+#! pip install -r requirements.txt
+#ctrl+? = comment all out
+#ctrl+] = indent multiple lines
+requests
